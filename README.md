@@ -58,15 +58,8 @@ I enjoy building practical applications and learning how modern systems are desi
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AungPhyo774&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AungPhyo774&layout=donut&hide_border=true&theme=transparent&langs_count=6" height="170" />
+  <img src="https://streak-stats.demolab.com?user=AungPhyo774&hide_border=true&theme=transparent" width="650" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AungPhyo774&hide_border=true&theme=transparent" height="170" />
-</p>
-
-
 
 ---
 
