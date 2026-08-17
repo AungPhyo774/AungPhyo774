@@ -1,4 +1,4 @@
-# 👋 I am Aung Phyo Hein
+# 👋 I'm Aung Phyo Hein
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Developer+in+Progress;Distributed+Systems+Enthusiast;DevOps+%26+Cloud+Learner;Building+Practical+Software+%F0%9F%9A%80" />
@@ -58,16 +58,23 @@ I enjoy building practical applications and learning how modern systems are desi
 ## 📊 GitHub Activity
 
 <p align="center">
+  <img
+    width="43%"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AungPhyo774&layout=compact&theme=dark&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=AungPhyo774&hide_border=true&theme=transparent" width="650" />
 </p>
+
 
 ---
 
 ## 🧠 Currently Learning
 
 ```text
-🐍 FastAPI & Backend Architecture
-🗄️ PostgreSQL & Database Design
 🐳 Docker & Containerization
 ⚙️ GitHub Actions & CI/CD
 ☁️ Distributed Systems & Cloud Architecture
@@ -75,7 +82,6 @@ I enjoy building practical applications and learning how modern systems are desi
 🌐 Scalable API Design
 ```
 
----
 
 ## 🎯 Career Interests
 
@@ -107,5 +113,5 @@ Currently studying **Parallel and Distributed Systems** alongside software devel
 </p>
 
 <p align="center">
-  <b>🚀 Learn. Build. Deploy. Improve.</b>
+  <b> Learn. Build. Deploy. Improve.</b>
 </p>
