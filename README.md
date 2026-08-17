@@ -52,16 +52,6 @@ I enjoy building practical applications and learning how modern systems are desi
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square\&logo=supabase\&logoColor=white)
 
----
-
-## 💻 Languages Used Across My Repositories
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AungPhyo774&layout=donut&hide_border=true&theme=transparent&langs_count=8"
-    height="250"
-  />
-</p>
 
 ---
 
@@ -111,9 +101,9 @@ Currently studying **Parallel and Distributed Systems** alongside software devel
   <a href="https://github.com/AungPhyo774">
     <img src="https://img.shields.io/badge/GitHub-AungPhyo774-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/aung-phyo-hein-9886123a6/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  </a
 </p>
 
 <p align="center">
