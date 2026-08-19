@@ -112,6 +112,7 @@ Currently studying **Parallel and Distributed Systems** alongside software devel
   </a
 </p>
 
+<h3>
 <p align="center">
-  <b> Learn. Build. Deploy. Improve.</b>
-</p>
+ " Learn. Build. Deploy. Improve. "
+</p></h3>
