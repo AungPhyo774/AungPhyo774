@@ -83,14 +83,6 @@ I'm looking for opportunities where I can contribute to real-world software proj
 
 ---
 
-## 🎓 Education
-
-**4th Year University Student**
-
-Currently studying **Parallel and Distributed Systems** alongside software development and DevOps technologies.
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
