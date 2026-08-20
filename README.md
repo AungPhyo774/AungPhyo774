@@ -72,16 +72,6 @@ I enjoy building practical applications and learning how modern systems are desi
 
 ---
 
-## 🧠 Currently Learning
-
-```text
-🐳 Docker & Containerization
-⚙️ GitHub Actions & CI/CD
-☁️ Distributed Systems & Cloud Architecture
-🔧 Kubernetes & Microservices
-🌐 Scalable API Design
-```
-
 
 ## 🎯 Career Interests
 
