@@ -51,20 +51,6 @@
 </p>
 
 
----
-
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/AungPhyo774">
-    <img src="https://img.shields.io/badge/GitHub-AungPhyo774-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/aung-phyo-hein-9886123a6/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a
-</p>
-
 <h3>
 <p align="center">
  " Learn. Build. Deploy. Improve. "
