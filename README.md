@@ -32,7 +32,7 @@
   * **Core Languages:** Python, Java, PHP, Dart, HTML5/CSS3
   * **Backend Frameworks:** FastAPI, Laravel
   * **Databases:** PostgreSQL, MySQL, SQLite, Supabase
-  * **DevOps & Infrastructure:** Docker, GitHub Actions, Nginx, Linux, Networking Fundamentals, XAMPP
+  * **DevOps & Infrastructure:** Docker, GitHub Actions, Nginx, Linux, Networking Fundamentals
   * **Version Control:** Git, GitHub
   * **Mobile Development:** Flutter
 
