@@ -26,7 +26,7 @@
   * DevOps, Container Orchestration, & CI/CD Pipelines
   * Cloud & Network Engineering Concepts
 
-## 🛠️ Tech Stack & Technical Skills
+## 🛠️ Tech Stack & Skills
 
 * **Core Programming Languages:**
   * **Core Languages:** Python, Java, PHP, Dart, HTML5/CSS3
